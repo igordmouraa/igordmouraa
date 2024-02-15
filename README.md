@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Moura</h1>
 <h3 align="center">A full stack developer and I'm enhancing my skills in React Native Development. I have a stronger familiarity with JavaScript, both in frontend and backend development. I have experience with non-relational databases like MongoDB.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igordmouraa" alt="igordmouraa" /></a> </p>
+<p align="left" justifyContent="space-between"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igordmouraa" alt="igordmouraa" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and NodeJS**
 
