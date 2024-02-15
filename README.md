@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igordmouraa" alt="igordmouraa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/igord_moura" target="blank"><img src="https://img.shields.io/twitter/follow/igord_moura?logo=twitter&style=for-the-badge" alt="igord_moura" /></a> </p>
-
 - 🌱 I’m currently learning **React Native and NodeJS**
 
 - 💬 Ask me about **React, HTML, CSS**
