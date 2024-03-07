@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning React Native, Typescript and NodeJS<br>💬 Ask me about React, Javascript, HTML and CSS<br>⚡ Fun fact I like to go to the gym<br>📫 How to reach me igordmoura_@hotmail.com
+🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning React Native, Typescript and NestJS<br>💬 Ask me about React, Javascript, HTML and CSS<br>⚡ Fun fact I like to go to the gym<br>📫 How to reach me igordmoura_@hotmail.com
 
 
 ## 🌐 Socials:
