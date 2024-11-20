@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Java<br>🌱 I’m currently learning Java Spring<br>💬 Ask me about React, Javascript, HTML and CSS<br>⚡ Fun fact I like to code<br>📫 How to reach me igordmoura_@hotmail.com
+🤝 I’m looking for help with Java<br>🌱 I’m currently learning Java Spring<br>💬 Ask me about React and Sequeliz<br>⚡ Fun fact I like to code<br>📫 How to reach me igordmoura_@hotmail.com
 
 
 ## 🌐 Socials:
