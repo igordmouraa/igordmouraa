@@ -1,6 +1,5 @@
-# 💫 About Me:>🌱 I’m currently learning NextJS with Firebase<br>💬 Ask me about React and Sequelize<br>⚡ Fun fact I like to code<br>📫 How to reach me igordmoura_@hotmail.com
+## 💫 About Me:>🌱 I’m currently learning NextJS with Firebase<br>💬 Ask me about React and Sequelize<br>⚡ Fun fact I like to code<br>📫 How to reach me igordmoura_@hotmail.com
 
-d
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igordmouraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igordmoura) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22559382) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/igord_moura) 
 
