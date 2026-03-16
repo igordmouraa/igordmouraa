@@ -8,11 +8,13 @@
 # ⚙️ Tools:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=igordmouraa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=igordmouraa&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igordmouraa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordmouraa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordmouraa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=igordmouraa&theme=midnight-purple&hide_border=true" />
+</div>
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=igordmouraa&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
