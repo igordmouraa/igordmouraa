@@ -74,13 +74,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=igordmouraa&theme=midnight-purple&hide_border=true)
+
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordmouraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordmouraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=igordmouraa&theme=oldie&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=igordmouraa&icon=1&color=6" />
-</div>
