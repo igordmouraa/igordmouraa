@@ -1,4 +1,32 @@
-## 💫 About Me:🌱 I’m currently learning Pascal in Delphi<br>💬 Ask me about NestJS<br>📫 How to reach me igordmoura_@hotmail.com
+## 💫 About Me:🌱 I’m currently learning Java Spring Boot<br>💬 Ask me about NestJS<br>📫 How to reach me igordmoura_@hotmail.com
+
+# 🎧 Last.fm Stats
+
+<div align="center">
+<!-- LASTFM_START -->
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lastfm_logo.svg" width="100" alt="Last.fm" /><br><br>
+      <b>🎶 Total Scrobbles</b><br>
+      9.242
+    </td>
+    <td align="center" width="250">
+      <b>🎤 Top Artist (Weekly)</b><br>
+      Steely Dan<br>
+      <i>150 scrobbles</i>
+    </td>
+    <td align="center" width="250">
+      <b>💿 Top Album (Weekly)</b><br>
+      <img src="https://lastfm.freetls.fastly.net/i/u/174s/1a77ce6d579b4ba5b0c5caa9a4606cf6.png" width="80" style="border-radius:10px;" /><br>
+      The Very Best Of Steely Dan<br>
+      by <i>Steely Dan</i><br>
+      <i>33 scrobbles</i>
+    </td>
+  </tr>
+</table>
+<!-- LASTFM_END -->
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igordmouraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igordmoura) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22559382) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/igord_moura) 
@@ -10,11 +38,11 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordmouraa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordmouraa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=igordmouraa&theme=midnight-purple&hide_border=true" />
-</div>
+</div> -->
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=igordmouraa&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
