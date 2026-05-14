@@ -2,7 +2,7 @@ name: Update Last.fm Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Executa a cada 12 horas
+    - cron: '0 */6 * * *' # Executa a cada 12 horas
   workflow_dispatch: # Permite execução manual
 
 jobs:
