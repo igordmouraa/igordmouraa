@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/igordmoura"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/igordmouraa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/igord_moura"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
   <a href="https://stackoverflow.com/users/22559382"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 </p>
 
@@ -21,35 +19,6 @@
 
 ---
 
-### 🎧 Last.fm Stats
-
-<div align="center">
-<!-- LASTFM_START -->
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lastfm_logo.svg" width="100" alt="Last.fm" /><br><br>
-      <b>🎶 Total Scrobbles</b><br>
-      9.242
-    </td>
-    <td align="center" width="250">
-      <b>🎤 Top Artist (Weekly)</b><br>
-      Steely Dan<br>
-      <i>150 scrobbles</i>
-    </td>
-    <td align="center" width="250">
-      <b>💿 Top Album (Weekly)</b><br>
-      <img src="https://lastfm.freetls.fastly.net/i/u/174s/1a77ce6d579b4ba5b0c5caa9a4606cf6.png" width="80" style="border-radius:10px;" /><br>
-      The Very Best Of Steely Dan<br>
-      by <i>Steely Dan</i><br>
-      <i>33 scrobbles</i>
-    </td>
-  </tr>
-</table>
-<!-- LASTFM_END -->
-</div>
-
----
 
 ### 💻 Tech Stack & Tools
 
